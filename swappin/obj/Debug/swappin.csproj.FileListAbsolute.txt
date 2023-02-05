@@ -1,0 +1,8 @@
+C:\Users\pc\Desktop\.NET\GIt Repository\swappin\swappin\bin\Debug\swappin.exe.config
+C:\Users\pc\Desktop\.NET\GIt Repository\swappin\swappin\bin\Debug\swappin.exe
+C:\Users\pc\Desktop\.NET\GIt Repository\swappin\swappin\bin\Debug\swappin.pdb
+C:\Users\pc\Desktop\.NET\GIt Repository\swappin\swappin\obj\Debug\swappin.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\.NET\GIt Repository\swappin\swappin\obj\Debug\swappin.csproj.SuggestedBindingRedirects.cache
+C:\Users\pc\Desktop\.NET\GIt Repository\swappin\swappin\obj\Debug\swappin.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\.NET\GIt Repository\swappin\swappin\obj\Debug\swappin.exe
+C:\Users\pc\Desktop\.NET\GIt Repository\swappin\swappin\obj\Debug\swappin.pdb
